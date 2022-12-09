@@ -28,7 +28,7 @@ nav a {
 }
 
 .h2 {
-	font-size: 30px;
+	font-size: 40px;
 }
 
 .div1 {
@@ -39,6 +39,8 @@ nav a {
 .Realismo{
 	padding-top: 15%;
 	padding-left: 5%;
+	padding-bottom: 5%;
+
 }
 
 .realismojpg{
@@ -52,22 +54,35 @@ nav a {
 	padding-left: 5%;
 	display: block;
 	padding-bottom: 5%;
+
 	
 }
 
 
 .Técnico{
-   padding-bottom: 5%; 
    display: block;
    width: 35%;
+   padding-bottom: 5%;
+
 }
 
 .Cartoom{
 	width: 38%;
 	display: block;
 	padding-bottom: 5%;
+
 }
 
-.titulorealismo {
-	display: inline;
+.p1 {
+	font-size: 30px;
 }
+
+.p {
+	font-size: 25px;
+}
+
+.p2 {
+	position: absolute;
+	padding-left: 35%;
+}
+
